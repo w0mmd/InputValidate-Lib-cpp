@@ -8,8 +8,8 @@ A lightweight and practical C++ library for validating user input — including 
 
 This library depends on the following custom utilities:
 
-- [`clsDate`](https://github.com/YourUsername/clsDate) – for date handling  
-- [`clsString`](https://github.com/YourUsername/clsString) – for string processing
+- [`clsDate`](https://github.com/w0mmd/Date-Lib-cpp) – for date handling  
+- [`clsString`](https://github.com/w0mmd/String-Lib-cpp) – for string processing
 
 📌 **Ensure both libraries are included in your project** before using `InputValidate`.
 
